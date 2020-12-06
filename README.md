@@ -1,0 +1,2 @@
+# machine_learning_physics_chemistry_bootcamp
+Machine learning bootcamp for quantum physics and chemistry applications
